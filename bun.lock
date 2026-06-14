@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "movie-site",
+      "name": "bunhono-yingshi",
       "dependencies": {
         "fast-xml-parser": "^5.0.0",
         "hono": "^4.7.0",
