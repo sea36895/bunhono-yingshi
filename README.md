@@ -1,22 +1,5 @@
-# bunhono-yingshi
-bun+hono+jsx/tsx 技术栈 -影视程序
-
-主程序：src/index.tsx
-
-模板主目录：src/views
-
-开发新模板在src/views/下创建新目录，示例default1/default2
-
-完成后在index.tsx中修改BUILTIN_CONFIG配置项：templateName: "default",
-
-+Tailwind CSS
-
-对接maccms xml接口
-
-
-
 ## 项目概览
-影视资源聚合站，基于 Bun + Hono + JSX/TSX 技术栈开发。从多个 XML API 源抓取影视数据，服务端渲染 HTML 页面。
+影视资源聚合站，基于 Bun + Hono + JSX/TSX 技术栈开发。从多个苹果maccms v10 XML API 源抓取影视数据，服务端渲染 HTML 页面。
 
 ## 项目结构
 ```
